@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="E:/SoftwareTmp/PyCharm/leetcode/editor/cn/[1]两数之和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/SoftwareTmp/PyCharm/leetcode/editor/cn/doc/content/[1]两数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="E:/SoftwareTmp/PyCharm/leetcode/editor/cn/[1]两数之和.py" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/SoftwareTmp/PyCharm/leetcode/editor/cn/[226]翻转二叉树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[226]翻转二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn226" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[226]翻转二叉树.py" />
+              <option name="titleSlug" value="invert-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/SoftwareTmp/PyCharm/leetcode/editor/cn/[344]反转字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/SoftwareTmp/PyCharm/leetcode/editor/cn/doc/content/[344]反转字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn344" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="E:/SoftwareTmp/PyCharm/leetcode/editor/cn/[344]反转字符串.py" />
+              <option name="titleSlug" value="reverse-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[105]从前序与中序遍历序列构造二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn105" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.py" />
+              <option name="titleSlug" value="construct-binary-tree-from-preorder-and-inorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[106]从中序与后序遍历序列构造二叉树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[106]从中序与后序遍历序列构造二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn106" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[106]从中序与后序遍历序列构造二叉树.py" />
+              <option name="titleSlug" value="construct-binary-tree-from-inorder-and-postorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[114]二叉树展开为链表.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[114]二叉树展开为链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn114" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[114]二叉树展开为链表.py" />
+              <option name="titleSlug" value="flatten-binary-tree-to-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[116]填充每个节点的下一个右侧节点指针.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[116]填充每个节点的下一个右侧节点指针.md" />
+              <option name="frontendQuestionId" value="leetcode.cn116" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[116]填充每个节点的下一个右侧节点指针.py" />
+              <option name="titleSlug" value="populating-next-right-pointers-in-each-node" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1650]二叉树的最近公共祖先 III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1650]二叉树的最近公共祖先 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1650" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1650]二叉树的最近公共祖先 III.py" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-tree-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[226]翻转二叉树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[226]翻转二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn226" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[226]翻转二叉树.py" />
+              <option name="titleSlug" value="invert-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[236]二叉树的最近公共祖先.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[236]二叉树的最近公共祖先.md" />
+              <option name="frontendQuestionId" value="leetcode.cn236" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[236]二叉树的最近公共祖先.py" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[263]丑数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[263]丑数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn263" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[263]丑数.py" />
+              <option name="titleSlug" value="ugly-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[297]二叉树的序列化与反序列化.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[297]二叉树的序列化与反序列化.md" />
+              <option name="frontendQuestionId" value="leetcode.cn297" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[297]二叉树的序列化与反序列化.py" />
+              <option name="titleSlug" value="serialize-and-deserialize-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[652]寻找重复的子树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[652]寻找重复的子树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn652" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[652]寻找重复的子树.py" />
+              <option name="titleSlug" value="find-duplicate-subtrees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[654]最大二叉树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[654]最大二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn654" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[654]最大二叉树.py" />
+              <option name="titleSlug" value="maximum-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
