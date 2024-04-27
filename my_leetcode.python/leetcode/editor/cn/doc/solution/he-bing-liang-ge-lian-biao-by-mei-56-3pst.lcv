@@ -1,0 +1,30 @@
+![image.png](https://pic.leetcode-cn.com/1636854093-TXMDQY-image.png)
+
+### 解题思路
+
+找到要删除的位置a的前一个节点和b的后一个节点进行拼接
+
+### 代码
+
+* python3
+
+```python
+class Solution:
+    def mergeInBetween(self, list1: ListNode, a: int, b: int, list2: ListNode) -> ListNode:
+        dummy = ListNode(0)
+        dummy.next = list1
+        tmp1 = tmp2 = dummy
+        l1, l2 = a, b + 2
+        while l1:
+            tmp1 = tmp1.next
+            l1 -= 1
+        while l2:
+            tmp2 = tmp2.next
+            l2 -= 1
+        tmp1.next = list2
+        while list2.next:
+            list2 = list2.next
+        list2.next = tmp2
+        return dummy.next
+```
+

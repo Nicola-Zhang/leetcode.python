@@ -1,0 +1,67 @@
+> Problem: [1669. 合并两个链表](https://leetcode.cn/problems/merge-in-between-linked-lists/description/)
+
+[TOC]
+
+# 思路
+
+> 讲述看到这一题的思路
+
+# 解题方法
+
+> 描述你的解题方法
+
+# 复杂度
+
+时间复杂度:
+
+> 添加时间复杂度, 示例： $O(n)$
+
+空间复杂度:
+
+> 添加空间复杂度, 示例： $O(n)$
+
+# Code
+
+* []
+
+```JavaScript
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} list1
+ * @param {number} a
+ * @param {number} b
+ * @param {ListNode} list2
+ * @return {ListNode}
+ */
+var mergeInBetween = function(list1, a, b, list2) {
+    const dummy = new ListNode(-1);
+    dummy.next = list1;
+    let index = 0;
+    let node = dummy.next;
+    while(list1 !== null) {
+        let next = list1.next;
+        if(index < a - 1) {
+            node = next;
+        }
+        if(index === a - 1) {
+            node.next = list2
+            while(node.next) {
+                node = node.next;
+            }
+        }
+        if(index === b) {
+            node.next = next;
+        }
+        ++index;
+        list1 = next;
+    }
+    return dummy.next;
+};
+```
+

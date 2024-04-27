@@ -1,0 +1,65 @@
+检查每一个结点是否满足上下边界。
+
+* []
+
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def isValidBST(self, root: TreeNode) -> bool:
+        def dfs(node, l, r):
+            if not node:
+                return
+            if node.val <= l or node.val >= r:
+                self.rt = False
+                return
+            dfs(node.left, l, node.val)
+            dfs(node.right, node.val, r)
+
+        self.rt = True
+        dfs(root, float('-inf'), float('inf'))
+        return self.rt
+```
+
+* []
+
+```c++
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+bool rt=true;
+public:
+    void dfs(TreeNode* node, long l, long r)
+    {
+        if (node==nullptr)
+            return;
+        if (node->val <=l || node->val >= r)
+        {
+            rt = false;
+            return;
+        }
+        dfs(node->left, l, node->val);
+        dfs(node->right, node->val, r);
+
+    } 
+    bool isValidBST(TreeNode* root) {
+        //cout<<LONG_MIN;
+        dfs(root, LONG_MIN, LONG_MAX);
+        return rt;
+    }
+};
+```
+
